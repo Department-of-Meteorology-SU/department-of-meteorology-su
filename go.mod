@@ -1,4 +1,4 @@
-module github.com/Eisbrenner/templatetest
+module github.com/Department-of-Meteorology-SU/department-of-meteorology-su.github.io
 
 go 1.24.3
 

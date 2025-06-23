@@ -3,18 +3,18 @@
 ############################
 
 author:
-  name: Eisbrenner
-  image: author.png
-  greeting: "Your new Qubt site :tada:"
-  icon: ":wave:"
+  name: MISU
+  image:
+  greeting: "Department of Meteorology, Stockholm University"
+  icon: ":sun_behind_rain_cloud:"
 
 ############################
 ## Links
 ############################
 
 links:
-  - github: https://github.com/Eisbrenner/templatetest
-  - link: https://github.com/Eisbrenner/templatetest#readme
+  - github: https://github.com/orgs/Department-of-Meteorology-SU/repositories
+  - link: https://github.com/Department-of-Meteorology-SU/misu_labenv#readme
   # - website: 
   # - x-twitter: 
   # - mastodon: 

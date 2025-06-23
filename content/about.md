@@ -4,7 +4,7 @@ type: misc
 
 # change these
 jobTitle: Blogger
-name: Eisbrenner
+name: 
 bio: true
 icon: ":coffee:"
 ---
