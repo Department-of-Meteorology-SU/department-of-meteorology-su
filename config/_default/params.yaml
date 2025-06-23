@@ -4,7 +4,7 @@
 
 author:
   name: MISU
-  image:
+  image: author.png
   greeting: "Department of Meteorology, Stockholm University"
   icon: ":sun_behind_rain_cloud:"
 
